@@ -107,7 +107,7 @@ Now that we're sure the computers can see each other over the network, we can no
 
   <li>After the installation is complete, the Computer will restart and our RDP connection will be lost. To sign into the new Active Directory Domain I used testdomain\labuser1.</li><br></br>
 
-  <h4>We have now successfully installed Active Directory and promoted DC1 into a Domain Controller.</h4>
+  <h4>I have now successfully installed Active Directory and promoted DC1 into a Domain Controller.</h4>
 </ol>
 </p>
 
